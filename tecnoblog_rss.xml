@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>TecnoBlog DAM</title>
+        <link>https://www.tecnoblogdam.com</link>
+        <description>Blog de tecnología, programación, inteligencia artificial y desarrollo web.</description>
+        <language>es-es</language>
+        <lastBuildDate>Wed, 13 May 2026 10:00:00 +0200</lastBuildDate>
+        <pubDate>Wed, 13 May 2026 10:00:00 +0200</pubDate>
+        <generator>RSS creado manualmente para la asignatura de Lenguajes de Marcas</generator>
+
+            <item>
+                <title>La inteligencia artificial en el desarrollo de aplicaciones</title>
+                <link>https://www.tecnoblogdam.com/articulos/inteligencia-artificial-desarrollo-aplicaciones</link>
+                <description>Analizamos cómo la inteligencia artificial está ayudando a los programadores a crear aplicaciones más rápidas, eficientes y personalizadas.</description>
+                <pubDate>Wed, 13 May 2026 09:30:00 +0200</pubDate>
+                <category>Inteligencia Artificial</category>
+            </item>
+
+            <item>
+                <title>HTML5 y CSS3: claves para crear páginas web modernas</title>
+                <link>https://www.tecnoblogdam.com/articulos/html5-css3-web-moderna</link>
+                <description>Repaso de las principales características de HTML5 y CSS3 para diseñar sitios web actuales, accesibles y adaptados a dispositivos móviles.</description>
+                <pubDate>Tue, 12 May 2026 12:00:00 +0200</pubDate>
+                <category>Desarrollo Web</category>
+            </item>
+
+            <item>
+                <title>Consejos básicos para mejorar la ciberseguridad personal</title>
+                <link>https://www.tecnoblogdam.com/articulos/consejos-ciberseguridad-personal</link>
+                <description>Explicamos buenas prácticas para proteger cuentas, contraseñas y dispositivos frente a ataques comunes en Internet.</description>
+                <pubDate>Mon, 11 May 2026 16:45:00 +0200</pubDate>
+                <category>Ciberseguridad</category>
+            </item>
+
+            <item>
+                <title>Java sigue siendo clave en el desarrollo multiplataforma</title>
+                <link>https://www.tecnoblogdam.com/articulos/java-desarrollo-multiplataforma</link>
+                <description>Artículo sobre la importancia de Java en aplicaciones de escritorio, móviles, servidores y proyectos de formación profesional.</description>
+                <pubDate>Sun, 10 May 2026 18:15:00 +0200</pubDate>
+                <category>Programación</category>
+            </item>
+
+    </channel>
+</rss>
