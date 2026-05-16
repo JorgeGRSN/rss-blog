@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title>Plataforma Educativa AulaTech</title>
+    <link href="https://www.aulatech.edu"/>
+    <link rel="self" href="https://www.aulatech.edu/canal_atom_educativo.xml"/>
+    <updated>2026-05-16T10:00:00Z</updated>
+    <author>
+        <name>Equipo AulaTech</name>
+    </author>
+    <id>https://www.aulatech.edu/canal_atom_educativo</id>
+
+    <entry>
+        <title>Nueva unidad de HTML y CSS</title>
+        <link href="https://www.aulatech.edu/cursos/html-css/unidad1"/>
+        <id>https://www.aulatech.edu/cursos/html-css/unidad1</id>
+        <updated>2026-05-16T10:00:00Z</updated>
+        <summary>Ya está disponible la nueva unidad sobre estructura HTML, etiquetas básicas y estilos CSS.</summary>
+        <author>
+            <name>Laura Martínez</name>
+        </author>
+    </entry>
+
+    <entry>
+        <title>Actividad práctica sobre XML</title>
+        <link href="https://www.aulatech.edu/actividades/xml-practica"/>
+        <id>https://www.aulatech.edu/actividades/xml-practica</id>
+        <updated>2026-05-15T09:30:00Z</updated>
+        <summary>Se ha publicado una actividad práctica para crear y validar documentos XML correctamente estructurados.</summary>
+        <author>
+            <name>Carlos Pérez</name>
+        </author>
+    </entry>
+
+    <entry>
+        <title>Recordatorio del examen de Lenguajes de Marcas</title>
+        <link href="https://www.aulatech.edu/noticias/examen-lenguajes-marcas"/>
+        <id>https://www.aulatech.edu/noticias/examen-lenguajes-marcas</id>
+        <updated>2026-05-14T12:00:00Z</updated>
+        <summary>Se recuerda al alumnado que el examen de Lenguajes de Marcas será la próxima semana.</summary>
+        <author>
+            <name>Departamento de Informática</name>
+        </author>
+    </entry>
+
+</feed>
